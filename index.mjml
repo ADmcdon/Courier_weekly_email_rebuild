@@ -1,0 +1,569 @@
+<mjml>
+    <mj-head>
+        <mj-style>
+            a{
+            font-style: italic;
+            color: inherit;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="600px" background-color="#ffffff">
+        <!-- top links -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text color="black">
+                    <a style="color: #808080;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=89cb96e775&e=f5b5cdc969">Subscribe</a>
+                    / <a style="color: #808080;" href="https://parcel.io/playground?theme=rge#">View in
+                        browser</a> / <a style="color: #808080;" href="https://parcel.io/playground?theme=rge#">Invite a
+                        friend</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- top links -->
+        <!-- logo & slogan -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column width="352px">
+                <mj-image align="left"
+                    src="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/df6b157f-b007-45c8-b9d2-87cd2e476989.png"
+                    alt="Courier Weekly Logo" title="Courier Weekly Logo" />
+            </mj-column>
+            <mj-column width="48px">
+
+            </mj-column>
+            <mj-column width="200px">
+                <mj-image align="left"
+                    src="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/635b198e-859a-4ff4-997d-2f1d732d5204.jpg"
+                    alt="Stories of modern business" title="Stories of modern business" />
+            </mj-column>
+        </mj-section>
+        <!-- logo & slogan  -->
+        <!-- date & author -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text align="left" color="#f6a800" font-size="14px" font-weight="500">
+                    1 October 2021
+                </mj-text>
+                <mj-text align="left" color="#808080" font-weight="500" font-size="14px">
+                    Courier Weekly provides inspiration and tools to help you work better and live smarter.
+                </mj-text>
+                <mj-text align="left" color="#808080" font-weight="500" font-size="14px">
+                    Brought to you this week by <a
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=8bce257bca&e=f5b5cdc969">Bureau
+                        at Design District.</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- date & author -->
+        <!-- divider -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-divider border-width="5px" border-color="#53bbad" />
+            </mj-column>
+        </mj-section>
+        <!-- divider -->
+        <!-- section head -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text font-size="18px" font-weight="900px">
+                    <span style="color:#53bbad;">SMARTS</span>&nbsp;STUFF&nbsp;SKILLS&nbsp;MORE
+                </mj-text>
+                <mj-text padding-bottom="0" font-size="15px" color="#808080">
+                    <i>Your weekly round-up of briefings, trends and news.</i>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- section head -->
+        <!-- Banner image -->
+        <mj-section padding-top="25px" padding-bottom="10px">
+            <mj-column>
+                <mj-image padding-top="4px"
+                    src="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/a41b5ad3-3a48-fab4-cfdb-0f502803c758.jpg"
+                    alt="Banner Image" title="Brainstorming" />
+            </mj-column>
+        </mj-section>
+        <!-- Banner image -->
+        <!-- smarts section -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text font-size="24px" align="left" font-weight="900" padding-top="0">
+                    Creatives need business skills, too
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+                    When designer <a style="color:#53bbad;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=bc3e04642f&e=f5b5cdc969">Stacie
+                        Woolsey</a> first started looking into a
+                    Master's program, she was quoted an unaffordable amount to study and live in London. So, she
+                    proposed an experiment: could she work on live industry briefs with artists and designers in the
+                    field, just to learn about what they did? Stacie's story of reaching out to industry professionals
+                    quickly spread in the design community - that's how her creative education program, <a
+                        style="color:#53bbad;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=477f48a173&e=f5b5cdc969">Make
+                        Your Own Masters</a>, came about. In January last year, she
+                    brought on her first cohort of 11 creatives to follow the same formula of crafting their own
+                    education alongside industry professionals.
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+
+                    <span style="background-color:#bae4de;">Financial inaccessibility is still a huge issue</span> in
+                    the higher-education space. MBAs can set people back five or six figures, and they're usually only
+                    available to people with some prior knowledge of business or management. That not only excludes
+                    creative entrepreneurs, but also widens the knowledge gap between them and other business owners.
+                    So, creatives are starting to take matters into their own hands.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- gap -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text font-size="18px" align="left" font-weight="900" padding-top="0">
+                    A new formula
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+                    Carolyn Dailey had worked in the creative industry for 20 years, and it was only when she started
+                    her own business that she noticed that knowledge deficit. ‘<span
+                        style="background-color:#bae4de;">We all had a lack of business training and networks</span>,
+                    which made everything a struggle.’ That led her to launch <a style="color:#53bbad;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=59268dff07&e=f5b5cdc969">Creative
+                        Entrepreneurs</a>, an online membership-based platform that tailors business concepts to
+                    creative people. Today, the platform attracts people in a number of creative sectors, including
+                    architecture, film and video games.
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+
+                    And <span style="background-color:#bae4de;">there's an even larger gap in newer creative
+                        spaces</span>, like content creation, influencing and podcasting, according to Ranbir Arora, CEO
+                    and co-founder of <a style="color:#53bbad;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=45186456c0&e=f5b5cdc969">Dorm</a>,
+                    which pairs aspiring business owners
+                    with established entrepreneurs. ‘You can best learn from an experienced entrepreneur when you are in
+                    the trenches with them as real partners of a project,’ Ranbir says. ‘This is where you can really
+                    see first hand how they tackle deep operational issues [and] how they keep calm under pressure.’
+                    What's unique about Dorm is that <span style="background-color:#bae4de;">the entrepreneurs are
+                        rewarded with equity or a share of revenue</span> if the business they’re mentoring is
+                    successful.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- gap -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text font-size="18px" align="left" font-weight="900" padding-top="0">
+                    The accessibility question
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+                    A lot of these alternative education providers are offering their services at <span
+                        style="background-color:#bae4de;">a fraction of the price of traditional universities.</span> A
+                    membership to Creative Entrepreneurs - which has a rich library of on-demand educational content and
+                    events - will only cost £30 a month or £300 on a yearly plan. Berlin-based <a style="color:#53bbad;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=794e3c1258&e=f5b5cdc969">d.MBA</a>
+                    costs just shy of €3,000 for a six-week business course that's tailored for
+                    designers - a far cry from the six-figure price tags of one- or two-year MBAs offered by
+                    universities. Prospective d.MBA students can even gauge whether the course is right for them before
+                    applying, by opting for a free seven-day trial that's delivered over email.
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+
+                    Accessibility isn't just about lowering prices, says d.MBA founder Alen Faljic. How a course is
+                    structured also has to be fundamentally different for creative professionals. ‘Having small groups
+                    of 30 people per cohort means that they can all hold each other accountable.’ <span
+                        style="background-color:#bae4de;">Adding a community-based element to education</span> also
+                    increases the likelihood that people will see the whole course through. That's why d.MBA completion
+                    rates are at 97%, while for most online courses, only 5% to 10% of learners finish the program. Alen
+                    and his team are already finding that they have lots more designers applying than they can serve.
+                    ‘More people are starting to realize that <span style="background-color:#bae4de;">not having this
+                        knowledge is keeping them from growing in their careers.’</span>
+                </mj-text>
+                <mj-text font-size="16px" font-weight="300">
+                    <i>For more on how creatives are navigating the business world, check out our latest print edition,
+                        <a style="color:#53bbad;"
+                            href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=0a5371ef15&e=f5b5cdc969">out
+                            now.</a> </i>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- smarts section  -->
+        <!-- divider -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-divider border-width="5px" border-color="#e8443c" />
+            </mj-column>
+        </mj-section>
+        <!-- divider -->
+        <!-- section head -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text font-size="18px" font-weight="900px">
+                    SMARTS&nbsp;<span style="color:#e8443c;">STUFF</span>&nbsp;SKILLS&nbsp;MORE
+                </mj-text>
+                <mj-text font-size="15px" color="#808080">
+                    <i>Inspiration for the home, plus things to eat, drink and wear.</i>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- section head -->
+        <!-- stuff section -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text font-size="24px" align="left" font-weight="900" padding-top="0">
+                    The e-bike boom
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+                    One e-bike was sold every <a style="color:#e8443b;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=c41aeda0a7&e=f5b5cdc969">three
+                        minutes</a> in 2020. Experts
+                    predict that 30 million will be sold <a style="color:#e8443b;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=96fdbc666c&e=f5b5cdc969">
+                        every
+                        year by 2030
+                    </a>, with advances in technology, accessibility and the need for easier commuting being a
+                    few reasons behind it. Here are five brands leading the way.
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+                    <ul>
+                        <li>
+                            Crowdfunded in 2017, Swytch wants to bring electrical biking to everyone. The
+                            easy-to-assemble <a style="color:#e8443b;"
+                                href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=832f80c39f&e=f5b5cdc969">Universal
+                                eBike Conversion Kit</a>,
+                            including a front motor wheel, power pack,
+                            handlebar bracket and a universal pedal assist sensor, converts any regular bike into an
+                            e-bike.
+                        </li>
+                        <li>
+                            The <a style="color:#e8443b;"
+                                href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=8d3ab8f82a&e=f5b5cdc969">Cowboy
+                                4</a> is Cowboy's newest and most advanced
+                            edition, winning the <a style="color:#e8443b;"
+                                href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=741804c238&e=f5b5cdc969">
+                                Red Dot Best of the
+                                Best
+                            </a> product design award in 2021. With 50% extra torque power compared to previous models,
+                            the bike is made of 200 components and integrates with the Cowboy app, which connects bike
+                            to phone to monitor activities.
+                        </li>
+                        <li>
+                            Cake is a Swedish electric bike company blurring the line between bicycle and motorbike. The
+                            newest model, the <a style="color:#e8443b;"
+                                href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=38d62c6a45&e=f5b5cdc969">Makka</a>,
+                            is available in two versions,
+                            the Range and the Flex. With top
+                            speeds of upwards of 25 km/h, it can be customized with Cake accessories, from a topbox to
+                            an additional passenger seat.
+                        </li>
+                        <li>
+                            The <a style="color:#e8443b;"
+                                href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=680e01d028&e=f5b5cdc969">Folding</a>
+                            by Ahooga is a lightweight hybrid bicycle,
+                            weighing in at 13kg. Combining the
+                            comfort and performance of a full-sized bike, the Folding is available in several
+                            motorizations, and can easily unwind in and out of its compact position within 10 seconds.
+                        </li>
+                        <li>
+                            Designed and engineered in Austin, Texas, the <a style="color:#e8443b;"
+                                href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=87a0a4c386&e=f5b5cdc969">MOD
+                                Easy</a>
+                            is an e-bike celebrating World War II
+                            motorcycles, featuring a retro frame with a large built-in battery and a powerful motor
+                            placed in the center. It can reach up to 45km/h and is available with a sidecar to carry any
+                            extra cargo.
+                        </li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- stuff section -->
+        <!-- divider -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-divider border-width="5px" border-color="#f6a800" />
+            </mj-column>
+        </mj-section>
+        <!-- divider -->
+        <!-- membership section -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text font-size="16px" font-weight="900">
+                    BRAND PARTNER: Bureau at Design District
+                </mj-text>
+                <mj-text font-size="16px" font-weight="900">
+                    Find your new creative home
+                </mj-text>
+                <mj-text align="left" line-height="1.5" font-size="16px" font-weight="300">
+                    After a year of working from home, it's time to reconnect with your community. Meet Bureau, a new
+                    members' club for desk-based creatives located in the heart of Greenwich Peninsula's new Design
+                    District. Bureau offers space to work and space to connect, with options for hot-desking, fixed
+                    workspaces and studio space for four to eight people, thoughtfully designed with creative work in
+                    mind.
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+
+                    <a style="color:#f6a800;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=0f0f093d9a&e=f5b5cdc969"><i>Get
+                            your free month's membership.</i></a>
+                </mj-text>
+                <mj-image align="right"
+                    href="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/8784b6bc-0449-e961-0857-e226d446b3cb.png"
+                    src="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/8784b6bc-0449-e961-0857-e226d446b3cb.png"
+                    alt="Bureau" title="Bureau" width="130px" />
+            </mj-column>
+        </mj-section>
+        <!-- membership section -->
+        <!-- divider -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-divider border-width="5px" border-color="#faaa8d" />
+            </mj-column>
+        </mj-section>
+        <!-- divider -->
+        <!-- section head -->
+        <mj-section padding-top="0">
+            <mj-column>
+                <mj-text font-size="18px" font-weight="900">
+                    SMARTS&nbsp;STUFF&nbsp;<span style="color:#faaa8d;">SKILLS</span>&nbsp;MORE
+                </mj-text>
+                <mj-text font-size="15px" padding-top="0" color="#808080">
+                    <i>Tips and tools to become better at life and work.</i>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- section head -->
+        <!-- skills section -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text font-size="24px" align="left" font-weight="600" padding-top="0">
+                    Supporting employees' mental health
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+                    With <a style="color:#faaa8d;"
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=3a35c80eeb&e=f5b5cdc969">one
+                        in six employees</a> experiencing mental ill health, organizations are – now more than ever –
+                    expected to have measures in place supporting workplace wellbeing. Nike, for example, hit headlines
+                    at the end of August for giving its staff a week-long mental health break. But what can smaller
+                    businesses, with limited time, money and resources, do to help their staff?
+                </mj-text>
+                <mj-text line-height="1.5" font-size="16px" font-weight="300">
+                    We asked <a
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=399419bf26&e=f5b5cdc969"
+                        style="color:#faaa8d;">Dr Nick Taylor</a>, a clinical psychologist and co-founder of workplace
+                    mental health platform
+                    <a href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=4db3eac641&e=f5b5cdc969"
+                        style="color:#faaa8d;">Unmind</a>, for some practical advice.
+                </mj-text>
+                <mj-text align="left" line-height="1.5" font-size="16px" font-weight="300">
+                    <span style="font-weight:900;">Nick's Tips</span>
+                    <ol style="font-weight:900;">
+                        <li>
+                            <span style="font-weight:900;background-color:#fdddd1;"> Train managers in supporting mental
+                                wellbeing </span> <br>
+                            <span style="font-weight:300;background-color:white;">‘Training managers for effective
+                                leadership, organization and
+                                planning is essential, but small businesses need to go further. They need to provide
+                                managers with specific training on how to offer mental health support to colleagues –
+                                both in person and virtually. Managers should be able to encourage and help employees to
+                                use the available resources.’ </span>
+                        </li>
+                        <li> <span style="font-weight:900;background-color:#fdddd1;">Move beyond standard,
+                                treatment-centric employee assistance programs (EAPs)</span>
+                            <br>
+                            <span style="font-weight:300">‘EAPs are critical for those already experiencing mental ill
+                                health. But small businesses also need to put preventative measures in place. These
+                                measures should focus on seven crucial areas: connecting with people to find support,
+                                monitoring stress levels, taking time off from work, drawing the line between private
+                                life and work, staying physically active, getting enough sleep, and finding purpose. By
+                                encouraging staff to proactively take care of these seven crucial areas, employers
+                                reduce the risk of mental ill health from appearing in the first place – and create a
+                                healthy, happy team.’ </span>
+                        </li>
+                        <li><span style="font-weight:900;background-color:#fdddd1;">Fight the stigma</span>
+                            <br>
+                            <span style="font-weight:300">
+
+                                ‘Employers should position mental health as something to be understood, nurtured and
+                                celebrated in the daily routines of any business. To achieve this, employers and
+                                managers can start by talking about their own struggles with mental health, and
+                                encourage honest conversations across the workforce.’ </span>
+                        </li>
+                        <li>
+                            <span style="font-weight:900;background-color:#fdddd1;">Underline the relationship between
+                                inclusivity and mental health</span><br>
+                            <span style="font-weight:300">‘Lackluster initiatives to promote diversity and equality
+                                often lead to mental ill health among minority groups who might struggle to access
+                                support. Offer resources that cover a wide range of topics, delivered on various
+                                channels, which are accessible by everyone.’ </span>
+                        </li>
+                        <li>
+                            <span style="font-weight:900;background-color:#fdddd1;">Provide employees with connected
+                                mental health tools</span> <br>
+                            <span style="font-weight:300">‘Since the pandemic hit, we have seen a rise in virtual mental
+                                health tools, such as apps, videos and articles. These tools should be accessible to all
+                                employees and, most importantly, work in tandem with them. Employers should organize
+                                these tools on a single platform that employees can easily access from anywhere.’
+                            </span>
+                        </li>
+                    </ol>
+                </mj-text>
+                <mj-divider padding-top="0" padding-bottom="0" border-width=1px border-style="solid"
+                    border-color="black" />
+                <mj-text color="#faaa8d" align="center" font-size="10px">
+                    Want more tips and tools on working effectively and living smarter?
+                </mj-text>
+                <mj-button
+                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=801afeed18&e=f5b5cdc969"
+                    border-radius="16px" inner-padding="8px 12px" font-size="16px" font-weight="900" color="black"
+                    background-color="#faaa8d" align="center" width="100%">
+                    Visit Courier Workshop
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!-- skills section -->
+        <!-- divider -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-divider border-width="5px" border-color="#008557" />
+            </mj-column>
+        </mj-section>
+        <!-- divider -->
+        <!-- more section -->
+        <mj-section padding-top="0">
+            <mj-column>
+                <mj-text font-size="18px" font-weight="900">
+                    SMARTS&nbsp;STUFF&nbsp;SKILLS&nbsp;<span style="color:#008557;">MORE</span>
+                </mj-text>
+                <mj-text font-size="15px" padding-top="0" color="#808080">
+                    <i>Other great stuff we loved this week.</i>
+                </mj-text>
+                <mj-text font-size="16px" padding-top="0" font-weight="900">
+                    <ol>
+                        <li style="padding-bottom:10px"> <span style="font-weight:300;">
+                                The couple that launched a <a
+                                    style="color:black;background-color:#cce7dd;font-weight:400;"
+                                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=800148be08&e=f5b5cdc969">home
+                                    bakery</a>.
+                            </span></li>
+
+                        <li style="padding-bottom:10px">
+                            <span style="font-weight:300;">What on earth is <a
+                                    style="color:black;background-color:#cce7dd;font-weight:400;"
+                                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=9cf1e3a769&e=f5b5cdc969">‘productivity
+                                    dysmorphia’</a>?</span>
+                        </li>
+                        <li style="padding-bottom:10px">
+                            <span style="font-weight:300;">A <a
+                                    style="color:black;background-color:#cce7dd; font-weight:400;"
+                                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=f0d4668f18&e=f5b5cdc969">fresh
+                                    take</a> on tech investing.</span>
+                        </li>
+                        <li style="padding-bottom:10px">
+                            <span style="font-weight:300;">Inside a <a
+                                    style="color:black;background-color:#cce7dd;font-weight:400;"
+                                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=a8075c117f&e=f5b5cdc969">mini
+                                    mart</a> in LA’s Chinatown.</span>
+                        </li>
+                        <li style="padding-bottom:10px">
+                            <span style="font-weight:300;">
+                                The Native American women <a
+                                    style="color:black;background-color:#cce7dd;font-weight:400;"
+                                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=87032e54d8&e=f5b5cdc969">shaking
+                                    up craft beer</a>.
+                            </span>
+                        </li>
+                    </ol>
+                </mj-text>
+                <mj-divider border-width="1px" border-style="solid" />
+                <mj-text align="center" color="#008557" font-size="10px">
+                    Did a friend forward you Courier Weekly? Sign up now.
+                </mj-text>
+                <mj-button
+                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=8f026beb9c&e=f5b5cdc969"
+                    border-radius="16px" inner-padding="8px 12px" font-size="16px" font-weight="900" color="#fff"
+                    background-color="#008557" align="center" width="100%">
+                    Sign up to Courier Weekly
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!-- more section -->
+        <!-- magazine cta -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column width="280px">
+                <mj-image
+                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=3aa4154db6&e=f5b5cdc969"
+                    src="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/a7fb3775-68ab-7132-221e-c538abb73abb.png"
+                    alt="Courier Magazine" title="Courier Magazine" />
+            </mj-column>
+            <mj-column width="280px" padding="0 10px">
+                <mj-image align="center"
+                    src="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/e091fed6-150a-4d43-bf1d-6a79dfbc845b.png"
+                    alt="Courier Bird Logo" title="Courier Bird Logo" width="60px" />
+                <mj-text font-size="34px" font-weight="500" align="center">
+                    It's the 1st. Start something!
+                </mj-text>
+                <mj-text color="#f6a800" align="center" font-size="16px" font-weight="600" line-height="1.5" letter-spacing=".0095em">
+                    Get inspired by the latest cohort of creative business owners that are making money on their own
+                    terms.
+                </mj-text>
+                <mj-button
+                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=fadeb52eeb&e=f5b5cdc969"
+                    border-radius="16px" inner-padding="8px 12px" font-size="16px" font-weight="900" color="#fff"
+                    background-color="#f6a800" align="center" width="100%">
+                    Buy the new issue
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!--  magazine cta -->
+        <!-- social links -->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text align="center">
+                    <a
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=1484d90f20&e=f5b5cdc969"><img
+                            style="width:24px;padding:0 10px;"
+                            src="https://cdn-images.mailchimp.com/icons/social-block-v2/gray-twitter-48.png" alt=""></a>
+                    <a
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=52d21b644f&e=f5b5cdc969"><img
+                            style="width:24px;padding:0 10px;"
+                            src="https://cdn-images.mailchimp.com/icons/social-block-v2/gray-instagram-48.png"
+                            alt=""></a>
+                    <a
+                        href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=c54fb73fcc&e=f5b5cdc969"><img
+                            style="width:24px;padding:0 10px;"
+                            src="https://cdn-images.mailchimp.com/icons/social-block-v2/gray-linkedin-48.png"
+                            alt=""></a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- social links -->
+        <!-- contact & unsubscribe links -->
+        <mj-section padding="0 40px">
+            <mj-column>
+                <mj-text font-size="14px" line-height="1.1"font-weight="300" align="center">
+                    Drop us a line anytime at <a style="color:black;"
+                        href="mailto:hello@couriermedia.com">hello@couriermedia.com</a> to tell us what you think.
+                    Update your preferences <a style="color:black;"
+                        href="https://parcel.io/playground?theme=rge#">here</a>. Unsubscribe <a style="color:black;"
+                        href="https://parcel.io/playground?theme=rge#">here</a>.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- contact & unsubscribe links -->
+        <!-- footer -->
+        <mj-section padding="0 40px">
+            <mj-column>
+                <mj-image
+                    src="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/b60d7cd4-d339-4f5b-929a-c6268b5fe686.png"
+                    alt="Mail Chimp logo" title="Mail Chimp logo" width="180px" />
+                <mj-image
+                    href="https://couriermedia.us3.list-manage.com/track/click?u=a583d27476c21500f30b2b4d2&id=6ef513a85a&e=f5b5cdc969"
+                    src="https://mcusercontent.com/a583d27476c21500f30b2b4d2/images/da7c66c9-1ab3-7a7e-9fbc-8e9c039648cc.png"
+                    alt="Courier Logo" title="Courier Logo" width="300px" />
+                <mj-text font-size="12px" font-weight="300" align="center">
+                    Courier, Level 1, 88 Hanbury Street, London, E1 5JL, UK
+                </mj-text>
+                <mj-text font-size="12px" font-weight="300" align="center">
+                    Illustration: Lauren Humphrey.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- footer -->
+    </mj-body>
+    <mjml>
